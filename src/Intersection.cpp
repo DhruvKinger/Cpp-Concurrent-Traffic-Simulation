@@ -3,7 +3,6 @@
 #include <chrono>
 #include <future>
 #include <random>
-
 #include "Street.h"
 #include "Intersection.h"
 #include "Vehicle.h"
